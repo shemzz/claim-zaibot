@@ -383,7 +383,7 @@ const Home: NextPage = () => {
             </h1>
           </div>
 
-          <div style={{marginTop: '100px', display: 'flex', flexDirection: 'column'}}>
+          <div style={{display: 'flex', flexDirection: 'column'}}>
             <Countdown />
           </div>
         </div>
