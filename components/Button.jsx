@@ -43,7 +43,7 @@ const Buttonn = () => {
             Minimum Purchase:  <code>$200</code>{" "} <br />
             Maximum Purchase: <code>$10,000</code>
             <br />
-            Accepted Currencies: <code className="cyan">BNB | ETH | USDT | USDC</code> <br />
+            Accepted Currencies: <code className="cyan">BNB | ETH | USDT | BUSD</code> <br />
 
             <small>
             If you send less, we will refund your wallet. If you send more, we will send
