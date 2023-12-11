@@ -3131,13 +3131,13 @@ const Home: NextPage = () => {
               <div className="col svelte-1yp41zp">
                 <div className="sub-header svelte-1yp41zp">Socials</div>
                 <div className="list svelte-1yp41zp">
-                  <a href="https://t.me/Zaibotchat">
+                  <a href="https://t.me/Claimzaitokens">
                     Channel Announcement Group
                   </a>
                   <span className="date svelte-1yp41zp">TG</span>
                 </div>
                 <div className="list svelte-1yp41zp">
-                  <a href="https://t.me/Zaibotchat">Public Chat</a>
+                  <a href="https://t.me/Claimzaitokens">Public Chat</a>
                   <span className="date svelte-1yp41zp">TG</span>
                 </div>
                 <div className="list svelte-1yp41zp">
